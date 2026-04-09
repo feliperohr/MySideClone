@@ -27,5 +27,7 @@ A documentação detalhada do projeto pode ser encontrada na pasta `docs/`:
 - [Visão Geral](docs/vision.md)
 - [Requisitos](docs/requirements.md)
 - [Entidades do Domínio](docs/entities.md)
+- [ERD — Relacionamentos entre Entidades](docs/erd.md)
+- [Contrato da API](docs/api_contract.md)
 - [Arquitetura de Software](docs/architecture.md)
 - [Decisões Técnicas (ADR)](docs/decisions.md)
